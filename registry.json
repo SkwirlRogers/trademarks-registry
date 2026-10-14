@@ -1,1 +1,46 @@
-{\"trademarks\":[{\"name\":\"TestTM\",\"product_type\":\"tool\"}],\"suites\":[],\"licenses\":[],\"registrations\":[]}
+{
+  "trademarks": [
+    {
+      "name": "TestTM",
+      "product_type": "tool",
+      "status": "idea",
+      "classes": [
+        9,
+        42
+      ],
+      "goods_services": "Computer software",
+      "owner": "SkwirlyNuts Inc",
+      "registration_number": null,
+      "registration_date": null,
+      "renewal_date": null,
+      "status_details": "test",
+      "domain": "testtm.com",
+      "social_handles": {},
+      "created_at": "2026-10-14T23:34:43.051164",
+      "updated_at": "2026-10-14T23:34:43.051272"
+    },
+    {
+      "name": "NutterSales",
+      "product_type": "platform",
+      "status": "idea",
+      "classes": [
+        9,
+        35,
+        42
+      ],
+      "goods_services": "Sales automation platform",
+      "owner": "SkwirlyNuts Inc",
+      "registration_number": null,
+      "registration_date": null,
+      "renewal_date": null,
+      "status_details": "Available - ready to file",
+      "domain": "nuttersales.com",
+      "social_handles": {},
+      "created_at": "2026-10-14T23:34:43.051287",
+      "updated_at": "2026-10-14T23:34:43.051291"
+    }
+  ],
+  "suites": [],
+  "licenses": [],
+  "registrations": []
+}
