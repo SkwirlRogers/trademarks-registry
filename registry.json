@@ -38,6 +38,139 @@
       "social_handles": {},
       "created_at": "2026-10-14T23:34:43.051287",
       "updated_at": "2026-10-14T23:34:43.051291"
+    },
+    {
+      "name": "NUTTTAURI",
+      "product_type": "tool",
+      "status": "idea",
+      "classes": [
+        9,
+        42
+      ],
+      "goods_services": "Downloadable desktop application software for operating system shells; software as a service featuring desktop application engineering and distribution tooling.",
+      "owner": "SkwirlyNuts Inc",
+      "registration_number": null,
+      "registration_date": null,
+      "renewal_date": null,
+      "status_details": "Available - ready to file",
+      "domain": "nutttauri.com",
+      "social_handles": {},
+      "created_at": "2026-10-22T03:08:18+00:00",
+      "updated_at": "2026-10-22T03:08:18+00:00"
+    },
+    {
+      "name": "NUTTYOLLA",
+      "product_type": "platform",
+      "status": "idea",
+      "classes": [
+        9,
+        35,
+        42
+      ],
+      "goods_services": "Downloadable software for web property capture and rebuild; on-line retail and marketplace services; software as a service featuring web property capture, cloning and storefront tooling.",
+      "owner": "SkwirlyNuts Inc",
+      "registration_number": null,
+      "registration_date": null,
+      "renewal_date": null,
+      "status_details": "Available - ready to file",
+      "domain": "nuttyolla.com",
+      "social_handles": {},
+      "created_at": "2026-10-22T03:08:18+00:00",
+      "updated_at": "2026-10-22T03:08:18+00:00"
+    },
+    {
+      "name": "NUTTDROID",
+      "product_type": "tool",
+      "status": "idea",
+      "classes": [
+        9,
+        42
+      ],
+      "goods_services": "Downloadable software for mobile application packaging, analysis and distribution; software as a service featuring mobile application build tooling.",
+      "owner": "SkwirlyNuts Inc",
+      "registration_number": null,
+      "registration_date": null,
+      "renewal_date": null,
+      "status_details": "Available - ready to file",
+      "domain": "nuttroid.com",
+      "social_handles": {},
+      "created_at": "2026-10-22T03:08:18+00:00",
+      "updated_at": "2026-10-22T03:08:18+00:00"
+    },
+    {
+      "name": "NUTTHOST",
+      "product_type": "tool",
+      "status": "idea",
+      "classes": [
+        42
+      ],
+      "goods_services": "Software as a service featuring managed hosting, edge deployment and domain routing.",
+      "owner": "SkwirlyNuts Inc",
+      "registration_number": null,
+      "registration_date": null,
+      "renewal_date": null,
+      "status_details": "Available - ready to file",
+      "domain": "nutthost.com",
+      "social_handles": {},
+      "created_at": "2026-10-22T03:08:18+00:00",
+      "updated_at": "2026-10-22T03:08:18+00:00"
+    },
+    {
+      "name": "SKWIRLYMOES",
+      "product_type": "tool",
+      "status": "idea",
+      "classes": [
+        9,
+        42
+      ],
+      "goods_services": "Downloadable computer software for source control, code generation, security scanning, financial analysis, research and connector integration; software as a service featuring the same.",
+      "owner": "SkwirlyNuts Inc",
+      "registration_number": null,
+      "registration_date": null,
+      "renewal_date": null,
+      "status_details": "Available - ready to file",
+      "domain": "skwirlymoes.com",
+      "social_handles": {},
+      "created_at": "2026-10-22T03:08:18+00:00",
+      "updated_at": "2026-10-22T03:08:18+00:00"
+    },
+    {
+      "name": "NUTTBRAND-KIT",
+      "product_type": "platform",
+      "status": "idea",
+      "classes": [
+        35,
+        42
+      ],
+      "goods_services": "Brand licensing services for computer software, web assets and design systems; software as a service featuring brand asset delivery and runtime brand enforcement.",
+      "owner": "SkwirlyNuts Inc",
+      "registration_number": null,
+      "registration_date": null,
+      "renewal_date": null,
+      "status_details": "Available - ready to file",
+      "domain": "nuttbrand-kit.com",
+      "social_handles": {},
+      "created_at": "2026-10-22T03:08:18+00:00",
+      "updated_at": "2026-10-22T03:08:18+00:00"
+    },
+    {
+      "name": "NutterNeptune",
+      "product_type": "platform",
+      "status": "idea",
+      "classes": [
+        9,
+        42
+      ],
+      "goods_services": "Reserved mark record \u2014 no application prepared, no amount contributed.",
+      "owner": "SkwirlyNuts Inc",
+      "registration_number": null,
+      "registration_date": null,
+      "renewal_date": null,
+      "status_details": "Available - ready to file",
+      "domain": "nutterneptune.com",
+      "social_handles": {},
+      "created_at": "2026-10-22T03:08:18+00:00",
+      "updated_at": "2026-10-22T03:08:18+00:00"
     }
   ],
   "suites": [],
