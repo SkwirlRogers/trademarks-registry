@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "products": [
+    {
+      "name": "NuttFlow",
+      "slug": "nuttflow",
+      "category": "automation",
+      "product_type": "saas",
+      "status": "public",
+      "pricing": {
+        "model": "subscription",
+        "amount": 29,
+        "currency": "USD",
+        "billed_annually": true
+      },
+      "description": "Workflow automation for product teams and growth operators.",
+      "repo": "https://github.com/SkwirlRogers/nuttflow",
+      "website": "https://nuttflow.com",
+      "tags": [
+        "automation",
+        "ai",
+        "workflow"
+      ],
+      "owner": "SkwirlRogers",
+      "trademark_family": "NuttNeptune"
+    },
+    {
+      "name": "NuttPilot",
+      "slug": "nuttpilot",
+      "category": "ai",
+      "product_type": "saas",
+      "status": "public",
+      "pricing": {
+        "model": "subscription",
+        "amount": 49,
+        "currency": "USD",
+        "billed_annually": true
+      },
+      "description": "AI assistant workflows for launches, research, and operations.",
+      "repo": "https://github.com/SkwirlRogers/nuttpilot",
+      "website": "https://nuttpilot.com",
+      "tags": [
+        "ai",
+        "assistant",
+        "productivity"
+      ],
+      "owner": "SkwirlRogers",
+      "trademark_family": "NuttNeptune"
+    },
+    {
+      "name": "NuttLaunch",
+      "slug": "nuttlaunch",
+      "category": "growth",
+      "product_type": "saas",
+      "status": "public",
+      "pricing": {
+        "model": "subscription",
+        "amount": 79,
+        "currency": "USD",
+        "billed_annually": true
+      },
+      "description": "Launch operations and distribution tooling for public SaaS catalogs.",
+      "repo": "https://github.com/SkwirlRogers/nuttlaunch",
+      "website": "https://nuttlaunch.com",
+      "tags": [
+        "launch",
+        "growth",
+        "distribution"
+      ],
+      "owner": "SkwirlRogers",
+      "trademark_family": "NuttNeptune"
+    }
+  ]
+}
